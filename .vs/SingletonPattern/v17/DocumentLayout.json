@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\SingletonPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07B132F-65CB-42FD-B336-BABED7A85C74}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\singletonpattern\\singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07B132F-65CB-42FD-B336-BABED7A85C74}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07B132F-65CB-42FD-B336-BABED7A85C74}|SingletonPattern\\SingletonPattern.csproj|c:\\users\\imad.ettamen\\source\\repos\\singletonpattern\\singletonpattern\\upservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07B132F-65CB-42FD-B336-BABED7A85C74}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\upservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\SingletonPattern\\SingletonPattern\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\SingletonPattern\\SingletonPattern\\Program.cs",
+              "RelativeToolTip": "SingletonPattern\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:22:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpService.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\SingletonPattern\\SingletonPattern\\UpService.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\UpService.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\source\\repos\\SingletonPattern\\SingletonPattern\\UpService.cs",
+              "RelativeToolTip": "SingletonPattern\\UpService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:47:45.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
